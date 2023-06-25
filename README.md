@@ -1,7 +1,10 @@
 # UAS Grafkom
 Kelompok 14
+
 Nico Suhartanto - C14210263
+
 Josefarrel Fabian - C14210235
+
 Farrel Christopher - C14210245
 
 Link laporan:
