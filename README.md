@@ -1,4 +1,4 @@
-# UAS_Grafkom_2223
+# UAS Grafkom
 Kelompok 14
 Nico Suhartanto - C14210263
 Josefarrel Fabian - C14210235
